@@ -1,2 +1,2 @@
 # appointment-bot
-Automatic available appointments search engine for procedures
+Automatic search for appointments for formalities, send screenshot by Telegram bot if available
